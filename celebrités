@@ -1,0 +1,22 @@
+1. Requêtes de sélection: rechercher les célébrités françaises, puis celles du monde de la 
+politique et des affaires, puis celles dont on ne connaît pas l'âge, et enfin celles qui sont 
+décédées. 
+
+2. Ecrire une requête d'insertion d'une nouvelle célébrité; 
+(utiliser les deux syntaxes possibles) 
+
+3. Ecrire une requête de suppression d'une célébrité (ex :Fernandel) 
+
+4. Ecrire une requête marquant qu'une célébrité est décédée (ex : Bonaparte) 
+
+
+
+Bonus: 
+
+1. Lister le nombre de célébrités par domaine 
+
+2. Dans quel domaine d'activité trouve-t-on le plus de célébrités? 
+
+3. Lister les célébrités dont on connaît la date de naissance et donner leur âge actuel 
+
+4. Lister les quinquagénaires
